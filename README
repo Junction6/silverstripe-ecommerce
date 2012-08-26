@@ -1,7 +1,9 @@
 ###############################################
-Silverstripe E-commerce 
+Silverstripe E-commerce 1.0
 ###############################################
 
+This branch will only receive bug and security fixes
+that are strictly required. 
 
 Developers
 -----------------------------------------------
@@ -12,14 +14,12 @@ also contributed to this project. THANK YOU!
 
 Requirements
 -----------------------------------------------
-Payment
+Payment 0.3
 SilverStripe 2.4+
 
 Project Home
 -----------------------------------------------
 See http://code.google.com/p/silverstripe-ecommerce
-+
-See http://www.silverstripe-ecommerce.com
 
 Demo
 -----------------------------------------------
